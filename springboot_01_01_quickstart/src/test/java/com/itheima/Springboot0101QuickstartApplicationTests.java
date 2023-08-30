@@ -11,6 +11,8 @@ class Springboot0101QuickstartApplicationTests {
         String str;
         int age;
         long id;
+        System.out.println("hello");
+        System.out.println("hello2");
     }
 
 }
